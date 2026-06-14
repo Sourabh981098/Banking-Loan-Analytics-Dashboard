@@ -32,7 +32,7 @@ Banks need to monitor loan default risk, track outstanding amounts, and understa
 ## 📁 Project Structure
 
 ## 🔗 Live Dashboard
-[View Live Dashboard on Power BI Service](https://app.powerbi.com) 
+[View Live Dashboard on Power BI Service](https://app.powerbi.com/links/MCct7psdpR?ctid=8939c792-e4c2-48e9-a43c-4db3ceb9b165&pbi_source=linkShare) 
 
 ## 📋 DAX Measures Used
 | Measure | Formula |
